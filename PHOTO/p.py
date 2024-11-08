@@ -3,7 +3,7 @@ import os
 
 # 開啟原始圖片
 for i in range(360):
-    image = Image.open(r'C:\Users\a2778\GitHub\FanAOI\FanAOI\PHOTO\0.png')
+    image = Image.open(r'C:\Users\a2778\GitHub\FanAOI\PHOTO\0.png')
 
     # 旋轉角度 (度數)
     angle = i  # 設定你想要的角度
